@@ -1,0 +1,18 @@
+.color {
+  color: #0000ff;
+}
+.size {
+  font-size: 30px;
+}
+.text-size {
+  font-size: 20px;
+}
+.icons-size {
+  font-size: 20px;
+}
+
+.iframe {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
